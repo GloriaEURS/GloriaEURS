@@ -1,15 +1,7 @@
-presentacion = {
-    "nombre": "GloriaEURS",
-    "edad": 23,
-    "intereses": ["dibujos a mano", "dibujos 2D y 3D", "jugar videojuegos", "ver anime", "aprender", "pasear por los bosques"],
-    "estudios": "Ciencias de Datos para negocios",
-    "objetivo": "hacer amigos y seguir aprendiendo juntos"
-}
-
-print("- 👋 Hola, soy @" + presentacion["nombre"] + ", tengo " + str(presentacion["edad"]) + " años")
-print("- 👀 Estoy interesado en " + ", ".join(presentacion["intereses"]) + ".")
-print("- 🌱 Actualmente estoy estudiando " + presentacion["estudios"])
-print("- 💞️ Me gustaría " + presentacion["objetivo"])
+- 👋 Hola, soy @GloriaEURS, tengo 23 años 
+- 👀 Estoy interesado en los dibujos a mano, 2d y 3d, jugar videojuegos, ver anime, aprender y salir a pasear a los bosques. 
+- 🌱Actualmente estoy estudiando Ciencias de Datos para negocios
+- 💞️ Me gustaria hacer amigos y seguir aprendiendo juntos
 
 <!---
 GloriaEURS/GloriaEURS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
