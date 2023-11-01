@@ -1,7 +1,8 @@
-- 👋 Hola, soy @GloriaEURS, tengo 23 años 
-- 👀 Estoy interesado en los dibujos a mano, 2d y 3d, jugar videojuegos, ver anime, aprender y salir a pasear a los bosques. 
+##Sobre Mí: 
+- 👋 Tengo 23 años 
+- 👀 Estoy interesado en los dibujos a mano, 2d y 3d, jugar videojuegos, ver anime y salir a pasear a los bosques. 
 - 🌱Actualmente estoy estudiando Ciencias de Datos para negocios
-- 💞️ Me gustaria hacer amigos y seguir aprendiendo juntos
+- 💞️ Me gusta aprender de todo un poco 
 
 <!---
 GloriaEURS/GloriaEURS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
