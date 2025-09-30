@@ -27,17 +27,17 @@
 ---
 
 ### 🚀 Experiencia y proyectos  
+- **Proyecto prototípico universitario (6.º semestre 2024)** → 🌱 **[Oxigénate CDMX](https://www.tiktok.com/@oxigenatecdmx)**  
+  - Campaña sobre la contaminación atmosférica en la Ciudad de México, desarrollada junto a **Hidalgo Cirelo José Rogelio**.  
+  - **Objetivo:** realizar un análisis exhaustivo de la calidad del aire para identificar patrones y tendencias mediante técnicas avanzadas de análisis y visualización de datos, y proponer estrategias basadas en evidencia para reducir la contaminación y sus efectos en la salud y la economía local.  
+  - **Actividades realizadas:** búsqueda y tratamiento de **bases de datos masivas**, optimización de contenidos para **SEO**, análisis exploratorio de datos y creación de visualizaciones comunicativas para difusión en redes (Donde también diseñé imagenes y animaciones con Krita).
+    
 - **Enero 2025** → Colaboré con la inmobiliaria *León Bienes Raíces mx*, quienes no tenían presencia digital.  
   - Creé su **página web** y gestioné sus **redes sociales**  
   - Aprendí a usar **PHP, Java, CSS, WordPress y HostGator**
   - 🌐 **[León Bienes Raíces](https://leonbienesraiceswiaktor.com/)**  
 
-- **Proyecto prototípico universitario (6.º semestre)** → 🌱 **[Oxigénate CDMX](https://www.tiktok.com/@oxigenatecdmx)**  
-  - Campaña sobre la contaminación atmosférica en la Ciudad de México, desarrollada junto a **Hidalgo Cirelo José Rogelio**.  
-  - **Objetivo:** realizar un análisis exhaustivo de la calidad del aire para identificar patrones y tendencias mediante técnicas avanzadas de análisis y visualización de datos, y proponer estrategias basadas en evidencia para reducir la contaminación y sus efectos en la salud y la economía local.  
-  - **Actividades realizadas:** búsqueda y tratamiento de **bases de datos masivas**, optimización de contenidos para **SEO**, análisis exploratorio de datos y creación de visualizaciones comunicativas para difusión en redes (Donde también diseñé imagenes y animaciones con Krita).  
- 
-- **Proyecto prototípico universitario (7mo semestre)** 
+- **Proyecto prototípico universitario (7mo semestre 2025)** 
 → [El uso de la inteligencia artificial como herramienta de detección de robo de identidad en las redes sociales](https://github.com/Hector-DAM/dashFinanzas) 🤖  
   - Elaborado junto a mis compañeros **Adaya Martínez Héctor Donají, García Espinosa Valeria y Laired Estela Pichardo Islas**  
   - Desarrollamos un **modelo predictivo basado en IA** para detectar movimientos fraudulentos (sospechosos)  
