@@ -75,12 +75,14 @@ Además de la tecnología, disfruto explorar el lado artístico y creativo. Me g
 
 ### 💼 Servicios que puedo ofrecer  
 Si deseas colaborar, puedo apoyarte con:  
-- 📝 **Colaborar para realizar un nuevo proyecto en tu mente**
+- 📝 **Colaborar para realizar un nuevo proyecto**
+- 💼 **Diseño de logotipos profesionales**
 - 🎨 **Dibujos digitales y pequeñas animaciones**  
 - 🖼️ **Edición de fotos básicas**  
 - 🎥 **Edición de videos** (cortos y semiprofesionales)  
-- 🗞️ **Diseño y gestión de redes sociales** por 1 mes  
-- 🌐 **Publicación de contenido en tu página web**
+- 🗞️ **Diseño y gestión de redes sociales** por 1 mes
+- 🌐 **Diseñar o crear tu página web con Wordpress y Hostgator**
+- 🌐 **Publicación de contenido en tu página web con SEO**
 
 ---
 
